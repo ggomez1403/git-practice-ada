@@ -4,6 +4,7 @@
 
 1. Geraldine Gomez Romero
 2. Daniel Eduardo Medina
+3. Jhon baracaldo
 
 ## Ingredientes
 
