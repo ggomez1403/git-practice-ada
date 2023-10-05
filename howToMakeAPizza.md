@@ -3,6 +3,7 @@
 ## Integrantes
 
 1. Geraldine Gomez Romero
+2. Daniel Eduardo Medina
 
 ## Ingredientes
 
